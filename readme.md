@@ -77,7 +77,7 @@ The fusion layer utilizes a **Yeo-Johnson Power Transformation** to normalize mu
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 - **Languages:** Python 3.8+
 - **Frameworks:** PyTorch, Scikit-Learn
 - **Libraries:** MediaPipe (Face Mesh), OpenCV, SciPy
@@ -85,14 +85,14 @@ The fusion layer utilizes a **Yeo-Johnson Power Transformation** to normalize mu
 
 ---
 
-## 📅 Project Status
+## Project Status
 > 🔬 **Note:** This project is currently **under review at ICPR 2024**. 
 > 
 > **The source code, pre-trained weights, and processed features will be released here upon formal acceptance of the paper.**
 
 ---
 
-## 📜 Citation
+## Citation
 If you find this work useful for your research, please cite:
 
 ```bibtex
