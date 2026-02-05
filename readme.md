@@ -100,5 +100,5 @@ If you find this work useful for your research, please cite:
   title={LightFusionNet: A Lightweight Multimodal Fusion Framework Combining Facial Dynamics and rPPG Signals for Depression Severity Detection},
   author={Bilal, Muhammad and Khan, Muhammad Turyalai and Shafait, Faisal},
   journal={Under Review (ICPR)},
-  year={2024}
+  year={2026}
 }
