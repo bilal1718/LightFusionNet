@@ -1,6 +1,6 @@
 # LightFusionNet: A Lightweight Multimodal Fusion Framework for Depression Severity Detection
 
-[![Status](https://img.shields.io/badge/Paper-Under--Review--ICPR--2024-blue.svg)](#)
+[![Status](https://img.shields.io/badge/Paper-Under--Review--ICPR--2026-blue.svg)](#)
 [![GreenAI](https://img.shields.io/badge/Focus-Green%20AI-brightgreen.svg)](#)
 
 Official repository for the paper: **"LightFusionNet: A Lightweight Multimodal Fusion Framework Combining Facial Dynamics and rPPG Signals for Depression Severity Detection"**.
@@ -86,7 +86,7 @@ The fusion layer utilizes a **Yeo-Johnson Power Transformation** to normalize mu
 ---
 
 ## Project Status
-> 🔬 **Note:** This project is currently **under review at ICPR 2024**. 
+> 🔬 **Note:** This project is currently **under review at ICPR 2026**. 
 > 
 > **The source code, pre-trained weights, and processed features will be released here upon formal acceptance of the paper.**
 
